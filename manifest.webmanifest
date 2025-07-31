@@ -13,7 +13,7 @@
  
   "icons": [
       {
-        "src": "https://raw.githubusercontent.com/simpsons-generator/simpsons-generator-github.io/refs/heads/main/images.png",
+        "src": "https://simpsons-generator.github.io/images.png",
         "type": "image/png",
         "sizes": "225x225"
       }
